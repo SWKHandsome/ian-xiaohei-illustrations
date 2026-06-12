@@ -206,13 +206,17 @@ Use $ian-xiaohei-illustrations 帮我编辑这张图，去掉左上角的“流�
     ├── agents/
     │   └── openai.yaml
     ├── assets/
-    │   └── examples/
+    │   ├── examples/
+    │   └── chibi-character-icons/
+    │       └── original-character-v1.png
     └── references/
         ├── style-dna.md
         ├── xiaohei-ip.md
         ├── composition-patterns.md
         ├── prompt-template.md
-        └── qa-checklist.md
+        ├── qa-checklist.md
+        ├── chibi-style-guide.md
+        └── chibi-prompt-template.md
 ```
 
 真正需要安装到 Codex 的是子目录：
